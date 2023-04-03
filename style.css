@@ -1,0 +1,38 @@
+*{
+ box-sizing:border-box;
+}
+
+
+body,html{
+height:100%;
+margin:0%;
+padding:0%;
+font-family:OCR A Std;
+
+}
+
+
+
+.bg{
+
+background-image:url("https://iili.io/HO33gyv.jpg");
+-webkit-background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+background-color:black;
+height:100% ;
+filter:blur(3px);
+}
+
+h2{
+position:absolute;
+top:30%;
+left:30%;
+translate: translate(-50%,50%);
+z-index: 5px;
+width:45%;
+padding:40px 0;
+text-align:center;
+color:#d9181180; #
+}
